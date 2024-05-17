@@ -1,0 +1,16 @@
+com\rental\immobiliere\repository\RentalRepo.class
+com\rental\immobiliere\services\PropertyServiceImpl.class
+com\rental\immobiliere\entities\Rental.class
+com\rental\immobiliere\services\RentalService.class
+com\rental\immobiliere\services\OwnerService.class
+com\rental\immobiliere\entities\Property.class
+com\rental\immobiliere\controllers\OwnerController.class
+com\rental\immobiliere\ImmobiliereApplication.class
+com\rental\immobiliere\repository\PropertyRepo.class
+com\rental\immobiliere\controllers\RentalController.class
+com\rental\immobiliere\entities\Owner.class
+com\rental\immobiliere\services\OwnerServiceImpl.class
+com\rental\immobiliere\repository\OwnerRepo.class
+com\rental\immobiliere\services\PropertyService.class
+com\rental\immobiliere\controllers\PropertyController.class
+com\rental\immobiliere\services\RentalServiceImpl.class
